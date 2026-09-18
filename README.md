@@ -2,6 +2,12 @@
 
 Herramienta independiente para ejecutar masivamente el precheck de IBM Connect:Direct Windows. Rust proporciona la ventana, concurrencia y reportes; PowerShell incorporado consulta cada servidor. No instala parches ni modifica configuración.
 
+## Descargar y abrir
+
+**[Descargar el ejecutable para Windows x64](https://github.com/nelfel/connectdirect-precheck/releases/latest/download/ConnectDirectPrecheck.exe)**
+
+Guarda el archivo y ábrelo con doble clic. No necesitas instalar Rust ni ejecutar comandos de compilación. En [Releases](https://github.com/nelfel/connectdirect-precheck/releases/latest) también está el archivo SHA-256. Los comandos al final de esta página son para desarrollar y compilar el proyecto.
+
 ## Uso
 
 1. Abre `ConnectDirectPrecheck.exe`.
