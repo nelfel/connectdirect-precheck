@@ -1,0 +1,7 @@
+/target/
+/Reportes/
+/dist/
+**/Reportes/
+*.log
+.env
+.env.*
